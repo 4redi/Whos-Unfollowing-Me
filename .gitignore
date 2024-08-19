@@ -1,0 +1,8 @@
+#venv
+Automation/
+
+# env file
+.env
+
+# JSON data (personal reasons)
+followers.JSON
