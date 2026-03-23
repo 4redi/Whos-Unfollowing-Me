@@ -44,6 +44,12 @@ Technologies used in the project:
 
 *   Python
 
+<h2>Create a .evn file like this: </h2>
+```
+INSTA_NAME="Your_Insta_UserName"
+INSTA_PASS="Your_Insta_Password"
+
+```
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT
