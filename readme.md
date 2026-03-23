@@ -6,17 +6,17 @@
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="shields"></p>
 
- <h2> Project Output 😃</h2> 
+ <h2> Project Output </h2> 
 <img src="demo.png" alt="output">
   
-<h2>🧐 Features</h2>
+<h2> Features</h2>
 
 Here're some of the project's best features:
 
-*   🌟 User friendly
-*   💥 Secure
+*    User friendly
+*    Secure
 
-<h2>🛠️ Installation Steps:</h2>
+<h2> Installation Steps:</h2>
 
 <p>1. Create a virtual Environment</p>
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
   
   
-<h2>💻 Built with</h2>
+<h2> Built with</h2>
 
 Technologies used in the project:
 
