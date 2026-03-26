@@ -48,8 +48,8 @@ Technologies used in the project:
 ```
 INSTA_NAME="Your_Insta_UserName"
 INSTA_PASS="Your_Insta_Password"
-
 ```
+
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT
