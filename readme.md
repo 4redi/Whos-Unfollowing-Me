@@ -44,7 +44,7 @@ Technologies used in the project:
 
 *   Python
 
-<h2>Create a .evn file like this: </h2>
+<h2>Create a .env file like this: </h2>
 
 ```
 INSTA_NAME="Your_Insta_UserName"
